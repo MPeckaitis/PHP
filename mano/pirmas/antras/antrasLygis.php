@@ -1,6 +1,6 @@
 <?php
 
-namespace mano\pirmasLygis\antrasLygis;
+namespace mano\pirmas\antras;
 
 
 class antrasLygis

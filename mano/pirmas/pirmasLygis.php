@@ -6,7 +6,7 @@
  * Time: 2:06 PM
  */
 
-namespace mano\pirmasLygis;
+namespace mano\pirmas;
 
 
 class pirmasLygis
